@@ -1,4 +1,4 @@
-# 🤖 AliBot – Personal RAG Chatbot
+# 🤖 NoumanBot – Personal RAG Chatbot
 
 **NLP Semester Project | CC438 | UMT Lahore | Spring 2026**
 
