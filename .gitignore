@@ -1,0 +1,27 @@
+# Environment
+.env
+*.env
+
+# FAISS index (rebuilt on deploy)
+faiss_index/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# data
+data/
